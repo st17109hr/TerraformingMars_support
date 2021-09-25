@@ -1,0 +1,2 @@
+rootProject.name = "TerraformingMars_support"
+include ':app'
